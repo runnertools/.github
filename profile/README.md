@@ -1,4 +1,4 @@
-![Welcome to the Runner Tools GitHub](https://github.com/runnertools/.github-private/blob/dev/profile/runner-tools-github-v2.png?raw=true)
+![Welcome to the Runner Tools GitHub](https://github.com/runnertools/.github/blob/dev/profile/runner-tools-github.png?raw=true)
 
 ## Welcome to Runner Tools
 
